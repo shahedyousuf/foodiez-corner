@@ -6,11 +6,14 @@ const Cart = ({ cart }) => {
     return (
         <div className='cart'>
             <h3>Cart info</h3>
+
             <div>
                 {
                     cart.map(food => <h5 key={food.id}>{food.name}</h5>)
-
                 }
+                <div className='cart-button'>
+
+                </div>
             </div>
 
         </div>
