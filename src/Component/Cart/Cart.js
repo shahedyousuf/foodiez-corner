@@ -9,6 +9,7 @@ const Cart = ({ cart }) => {
             <div>
                 {
                     cart.map(food => <h5 key={food.id}>{food.name}</h5>)
+
                 }
             </div>
 
