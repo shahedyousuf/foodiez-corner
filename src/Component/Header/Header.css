@@ -1,0 +1,8 @@
+.header{
+    border: 2px solid navajowhite;
+    background-color: antiquewhite;
+    padding: 10px;
+}
+.header p{
+    font-weight: 600;
+}

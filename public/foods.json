@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Grilled chicken",
+        "price": 100,
+        "image": "https://img.freepik.com/free-photo/grilled-chicken-legs-barbecue-sauce-with-pepper-seeds-parsley-salt-black-stone-plate-black-stone-table_1150-37858.jpg?size=626&ext=jpg&ga=GA1.2.2008482416.1648271665"
+    },
+    {
+        "id": 2,
+        "name": "Sliced meat",
+        "price": 120,
+        "image": "https://img.freepik.com/free-photo/sliced-meat-barbecue-served-with-onion-sea-salt_114579-7238.jpg?size=626&ext=jpg&ga=GA1.2.2008482416.1648271665"
+    },
+    {
+        "id": 3,
+        "name": "Spaghetti with fresh vegetables",
+        "price": 80,
+        "image": "https://img.freepik.com/free-photo/spaghetti-with-fresh-ingredients_1220-439.jpg?size=626&ext=jpg&ga=GA1.2.2008482416.1648271665"
+    },
+    {
+        "id": 4,
+        "name": "Cup of coffee",
+        "price": 50,
+        "image": "https://img.freepik.com/free-photo/cup-coffee-with-heart-drawn-foam_1286-70.jpg?size=626&ext=jpg&ga=GA1.2.2008482416.1648271665"
+    },
+    {
+        "id": 5,
+        "name": "Grilled beef steak",
+        "price": 150,
+        "image": "https://img.freepik.com/free-photo/grilled-beef-steak-dark-wooden-surface_1150-44344.jpg?size=626&ext=jpg&ga=GA1.2.2008482416.1648271665"
+    },
+    {
+        "id": 6,
+        "name": "Crispy fried chicken",
+        "price": 100,
+        "image": "https://img.freepik.com/free-photo/crispy-fried-chicken-plate-with-tomato-sauce_1150-20213.jpg?size=626&ext=jpg&ga=GA1.2.2008482416.1648271665"
+    },
+    {
+        "id": 7,
+        "name": "Lentil soup",
+        "price": 40,
+        "image": "https://img.freepik.com/free-photo/lentil-soup-with-mixed-ingredients-herbs-white-bowl-with-spoon_114579-3083.jpg?size=626&ext=jpg&ga=GA1.1.2008482416.1648271665"
+    },
+    {
+        "id": 8,
+        "name": "Beef burger",
+        "price": 70,
+        "image": "https://img.freepik.com/free-photo/beef-cotlet-burger-with-sauce-wooden-board_114579-2600.jpg?size=626&ext=jpg&ga=GA1.1.2008482416.1648271665"
+    },
+    {
+        "id": 9,
+        "name": "Grilled chicken legs",
+        "price": 120,
+        "image": "https://img.freepik.com/free-photo/grilled-chicken-legs-flaming-grill-with-grilled-vegetables-with-tomatoes-potatoes-pepper-seeds-salt_1150-37782.jpg?size=626&ext=jpg&ga=GA1.1.2008482416.1648271665"
+    },
+    {
+        "id": 10,
+        "name": " Healthy salad",
+        "price": 80,
+        "image": "https://img.freepik.com/free-photo/diet-menu-healthy-vegetarian-salad-fresh-vegetables-tomatoes-cucumber-sweet-peppers-porridge-bowl-vegan-food-flat-lay-top-view_2829-19941.jpg?size=626&ext=jpg&ga=GA1.1.2008482416.1648271665"
+    },
+    {
+        "id": 11,
+        "name": "Egg with fresh vegetables",
+        "price": 100,
+        "image": "https://img.freepik.com/free-photo/closeup-salad-fresh-vegetables-eggs_169016-19502.jpg?size=626&ext=jpg&ga=GA1.2.2008482416.1648271665"
+    },
+    {
+        "id": 12,
+        "name": "Pasta with eggs",
+        "price": 100,
+        "image": "https://img.freepik.com/free-photo/classic-homemade-carbonara-pasta-with-pancetta-egg-hard-parmesan-cheese-cream-sauce_2829-4787.jpg?size=626&ext=jpg&ga=GA1.2.2008482416.1648271665"
+    }
+]
