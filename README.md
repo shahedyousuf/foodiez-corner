@@ -1,7 +1,7 @@
 # Foodiez corner
+https://foodiez-corner.netlify.app/
 
-
-This project was bootstrapped with [Foodiez Corner](https://foodiez-corner.netlify.app/).
+[Foodiez Corner](https://foodiez-corner.netlify.app/).
 
 ## Available Scripts
 
