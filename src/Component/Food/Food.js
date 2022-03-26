@@ -20,11 +20,9 @@ Modal.setAppElement('#root');
 const Food = () => {
     const [menus, setMenus] = useState([])
     const [cart, setCart] = useState([])
-
     const [modalIsOpen, setIsOpen] = useState(false);
 
-    const openModal = (cart) => {
-        console.log(cart)
+    const openModal = () => {
         setIsOpen(true);
     }
     function closeModal() {
