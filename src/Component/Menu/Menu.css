@@ -1,14 +1,12 @@
 .image-container{
     width: 300px;
-    height: 500px;
-    gap: 50px;
+    height: 400px;
+    border: 1px solid gainsboro;
 }
 .image-container img{
-    width: 350px;
-    height: 200px;
-    
+    width: 300px;
+    height: 200px;   
 }
-/* .menu-container{
-    display: grid;
-    grid-template-columns: repeat(3,1fr);
-} */
+.btn:hover{
+    background-color: blue;
+}
