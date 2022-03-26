@@ -1,10 +1,12 @@
 import React from 'react';
 import { useState, useEffect } from 'react'
+import Cart from '../Cart/Cart';
 import Menu from '../Menu/Menu';
 import './Food.css'
 
 const Food = () => {
     const [menus, setMenus] = useState([])
+    const [cart, setCart] = useState([])
 
     useEffect(() => {
         fetch('foods.json')
@@ -14,8 +16,11 @@ const Food = () => {
 
     //event handler
     const addToCart = (menu) => {
-        console.log(menu)
+        const newCart = [...cart, menu]
+        setCart(newCart)
     }
+    console.log(cart)
+
 
     return (
         <div className='food-container mt-2'>
@@ -27,8 +32,8 @@ const Food = () => {
 
             </div>
 
-            <div className="food-info">
-                <h3>Food info</h3>
+            <div className="cart">
+                <Cart cart={cart}></Cart>
             </div>
         </div>
     );
