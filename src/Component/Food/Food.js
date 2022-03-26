@@ -19,19 +19,13 @@ const Food = () => {
         const newCart = [...cart, menu]
         setCart(newCart)
     }
-    console.log(cart)
-
-
     return (
         <div className='food-container mt-2'>
             <div className='food-menu'>
-
                 {
                     menus.map(menu => <Menu key={menus.id} menu={menu} addToCart={addToCart}></Menu>)
                 }
-
             </div>
-
             <div className="cart">
                 <Cart cart={cart}></Cart>
             </div>
