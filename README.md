@@ -1,6 +1,7 @@
 # Foodiez corner
 
-This project was bootstrapped with [Create React App](https://foodiez-corner.netlify.app/).
+
+This project was bootstrapped with [Foodiez Corner](https://foodiez-corner.netlify.app/).
 
 ## Available Scripts
 
